@@ -34,5 +34,6 @@ public class StringCharacterOccurence
 			}
 		}
 		while(len!=1);
+		scan.close();
 	}
 }
