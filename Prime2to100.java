@@ -1,5 +1,3 @@
-
-
 class Prime2to100
 {
    public static void main (String[] args)
@@ -27,5 +25,6 @@ class Prime2to100
        }	
        System.out.println("Prime numbers from 1 to 100 are :");
        System.out.println(primeNumbers);
+       
    }
 }
